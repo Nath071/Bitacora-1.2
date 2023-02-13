@@ -1,6 +1,7 @@
 html{
-    font-size: 10px;
+    font-size: 15px;
     font-family: "Open Sans", sans-serif;
+    
 }
 h1{
     font-size: 60px;
@@ -8,6 +9,71 @@ h1{
 }
 p,li{
     font-size: 16px;
-    line-height: 2;
+    line-height: 1;
     letter-spacing: 1px;
 }
+
+body{
+    font-size: 15px;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+
+h1 { color: blueviolet; 
+
+}
+footer{
+    color: burlywood;
+    width: 950px;
+    text-align: right;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 0 20px 20px 20px;
+    border-style: dashed;
+    border-color: rgb(21, 107, 107);
+}
+
+html {
+    background-color: #e5dcee;
+}
+      
+body {
+    width: 960px;
+    margin: 0 auto;
+    background-color: #f5efe6;
+    padding: 0 20px 20px 20px;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: blueviolet;
+    text-shadow: 3px 3px 1px rgb(41, 36, 41);
+}
+
+p{
+    font-family: 'open sans';
+    font-size: 13px;
+    color: rgb(0, 0, 0);
+    line-height: 18px;
+    margin-bottom: 20px;
+    }
+h3{
+    font-family: 'Open Sans';
+    font-size: 15px;
+    color: rgb(78, 71, 179);
+    text-shadow: 10px 0px 7px #525151;
+    }
+h2{
+    font-family: 'Open Sans';
+    font-size: 15px;
+    color: rgb(235, 146, 140);
+    }
+h4{
+    font-family: 'Open Sans';
+    font-size: 15px;
+    color: rgb(228, 91, 86);
+    text-shadow: 10px 0px 7px #525151;
+    }
